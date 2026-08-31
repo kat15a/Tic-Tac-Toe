@@ -11,7 +11,7 @@ A simple and interactive **Tic-Tac-Toe (XO) game** built using **HTML, CSS, and 
 * 🏆 Winner detection logic
 * 🤝 Draw detection system
 * 🎨 Responsive and clean UI designs
-* ⚡ Instant move updates using JavaScript
+* ⚡ Instant move update using JavaScript
 
 ---
 
